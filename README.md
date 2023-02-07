@@ -1,5 +1,6 @@
 # HospitalManagementSystem
 It was a team project for course DAMG6210 at Northeastern University.
+
 Include functions, constraint functions, triggers, and views.
 
 Objective:
